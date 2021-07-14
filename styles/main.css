@@ -1,20 +1,27 @@
 @import url("header.css");
 
 header {
-border: solid goldenrod;
+/* /* border: solid goldenrod; */
 }
+
 
 .container {
 display: flex;
+margin-top: -10%;
 }
 
 article {
-border: solid goldenrod;
+/* border: solid goldenrod; */
 flex: 3;
 justify-content: space-around;
+
 }
 
 aside {
-border: dotted 2px goldenrod;
+/* border: dotted 2px goldenrod; */
 flex: 1;
+}
+
+body {
+    margin: 0;
 }
