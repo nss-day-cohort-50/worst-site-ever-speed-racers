@@ -1,0 +1,18 @@
+header {
+border: solid goldenrod;
+}
+
+.container {
+display: flex;
+}
+
+article {
+border: solid goldenrod;
+flex: 3;
+justify-content: space-around;
+}
+
+aside {
+border: dotted 2px goldenrod;
+flex: 1;
+}
