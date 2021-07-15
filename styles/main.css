@@ -1,4 +1,6 @@
 @import url("header.css");
+@import url("cautionBasics.css");
+
 
 header {
 border: solid goldenrod;
