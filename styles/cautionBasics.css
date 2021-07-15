@@ -57,8 +57,7 @@
 
 
 article {
-    /* border: solid goldenrod; */
     flex: 3;
     justify-content: space-around;
     font-family: 'Zen Tokyo Zoo', cursive;
-
+}
