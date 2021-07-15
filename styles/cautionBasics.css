@@ -1,0 +1,51 @@
+.caution {
+   background-color: rgb(255, 105, 255);
+   color: blue;
+   font-size: 20px;
+   padding-bottom: 10px; 
+}
+
+.header__caution {
+    text-align: center;
+    font-size: 45px;
+    font-weight:900;
+    color: lime;
+    padding-top: 0.5em;
+}
+
+.smallText__caution {
+    font-size: 12px;
+    font-weight: 700px;
+}
+
+.problems {
+    display: flex;
+    margin: 0.5rem 1rem;
+    flex-basis: 30%;
+    font-weight: 600;
+    font-size: 15px;
+    color: rgb(39, 39, 39);
+}
+
+.problem {
+    flex-wrap: wrap;
+    width: 100%;
+    padding: 2px;  
+    color: blue;
+    background: yellow;
+}
+
+.problem__name {
+    text-align: center;
+    margin-bottom: 5px;
+    font-size: 20px;
+}
+
+
+
+.problem img {
+    width: 200px;
+    height: 200px;
+    padding: 0 5em;  
+}
+
